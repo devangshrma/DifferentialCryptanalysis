@@ -1,12 +1,10 @@
 # DifferentialCryptanalysis
 This project was developed as a part of ECE 519C course project
-/*
 *   **@date**           2 April, 2020
 *   **@author**         Devang
 *   **@version**        1.0
 *   **@platformInfo**   Tested on Ubuntu Budgie 18.04
 *   **@about**          An implementation of Howard M. Hey's tutorial on differential cryptanalysis.
-*/
 
 Steps to run this code:-the
 1) Compile the code using command:- gcc diffCryptAna.c -o diffCryptAna

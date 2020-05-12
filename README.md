@@ -1,5 +1,5 @@
 # DifferentialCryptanalysis
-This project was developed as a part of ECE 519C course project
+This project was developed as a part of ECE 519C course work
 *   **@date**           2 April, 2020
 *   **@author**         Devang
 *   **@version**        1.0
